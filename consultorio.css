@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+Header h1,h2{
+    text-align: center;
+}
+#formulario{
+    background-image: url(consultorio.jpg);
+    border-width: 150px;
+    margin-right: 150px;
+    border-radius: 10px;color: brown;
+    width: 750px;
+    height: 450px;
+    float: left;
+}
+
+footer p{
+    margin-top: 500px;
+    background-color: rgba(248, 248, 28, 0.884);
+    color: black;
+    text-align: center;
+}
+
+#portada{
+    margin-left: 15cm;
+
+}
+#direccion{
+    text-align: center;
+    color: yellowgreen;
+    font-size: 40px;
+}
+aside{
+    width: 400px;
+    height: 450px;
+    float: right;
+    background-color:rgba(248, 248, 28, 0.884 );
+    color: white;
+}
